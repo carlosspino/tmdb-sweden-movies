@@ -103,4 +103,4 @@ The Google Sheet will be populated with:
 
 ## Time Spent
 
-Include the total time spent in the sheet as requested.
+30 minutes
